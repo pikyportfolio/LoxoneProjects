@@ -1,0 +1,177 @@
+2022-03-16 17:03:05.244;PRG start Tree Device (Touch Tree) serial B0237304 version 12.2.10.20 (start reason: power on reset)
+
+2022-03-16 17:09:49.710;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.3.10 startreason software reset
+
+2022-03-16 17:16:04.330;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: software reset)
+
+2022-03-18 16:21:06.830;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.3.13 startreason software reset
+
+2022-03-18 16:34:32.468;PRG start Air Device (Touch Pure Air - 50:4F:94:FF:FE:88:8E:FA) version 11.2.11.12 (start reason: power on reset)
+
+2022-03-18 16:34:34.037;PRG start Air Device (Touch Pure Air - 50:4F:94:FF:FE:88:8E:FA) version 11.2.11.12 (start reason: power on reset)
+
+2022-03-18 16:34:35.601;PRG start Air Device (Touch Pure Air - 50:4F:94:FF:FE:88:8E:FA) version 11.2.11.12 (start reason: power on reset)
+
+2022-03-25 14:30:49.161;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.3.25 startreason software reset
+
+2022-03-31 07:50:31.779;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-04-07 08:50:38.047;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.4.4 startreason software reset
+
+2022-04-22 17:34:16.718;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.4.20 startreason software reset
+
+2022-05-06 14:28:22.082;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.3 startreason software reset
+
+2022-05-06 14:38:16.304;PRG start Extension (1310E331 / Tree Extension) version 11.2.11.10 (start reason: software reset)
+
+2022-05-06 14:38:34.052;PRG start Extension (1310E331 / Tree Extension) version 11.2.11.10 (start reason: software reset)
+
+2022-05-06 14:38:48.677;PRG start Extension (1310E331 / Tree Extension) version 11.2.11.10 (start reason: software reset)
+
+2022-05-06 14:39:17.342;PRG start Extension (1310E331 / Tree Extension) version 11.2.11.10 (start reason: software reset)
+
+2022-05-06 14:39:55.190;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.3 startreason software reset
+
+2022-05-06 15:02:12.571;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.3 startreason software reset
+
+2022-05-10 17:32:42.039;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.4 startreason software reset
+
+2022-05-25 09:27:48.095;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.18 startreason software reset
+
+2022-05-26 18:01:53.625;PRG start Tree Device (Presence Sensor Tree) serial B022D208 version 12.4.1.31 (start reason: power on reset)
+
+2022-05-26 18:01:54.190;PRG start Tree Device (Presence Sensor Tree) serial B022D208 version 12.4.1.31 (start reason: power on reset)
+
+2022-05-26 18:02:03.513;PRG start Tree Device (Presence Sensor Tree) serial B022D208 version 12.4.1.31 (start reason: power on reset)
+
+2022-05-26 18:02:04.621;PRG start Tree Device (Presence Sensor Tree) serial B022D208 version 12.4.1.31 (start reason: power on reset)
+
+2022-05-27 08:46:20.905;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-05-31 17:24:08.221;PRG start Air Device (Temperature and Humidity Sensor Air - 50:4F:94:FF:FE:81:B2:66) version 11.2.11.12 (start reason: power on reset)
+
+2022-06-01 16:59:53.961;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-06-06 22:09:54.202;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-06-09 02:07:45.766;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-06-13 23:54:56.978;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-06-14 18:06:06.755;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.5.25 startreason software reset
+
+2022-06-22 10:18:16.749;PRG start Tree Device (RGBW 24V Dimmer Tree) serial C011B76F version 12.4.6.22 (start reason: software reset)
+
+2022-06-23 12:07:57.102;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.21 startreason software reset
+
+2022-06-23 16:45:44.916;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-06-24 16:31:03.155;PRG start Tree Device (RGBW 24V Dimmer Tree) serial C011B76F version 12.4.6.24 (start reason: software reset)
+
+2022-06-27 15:47:21.536;PRG start Tree Device (NFC Code Touch Tree Gen. 1) serial B0149536 version 12.4.1.21 (start reason: power on reset)
+
+2022-06-27 15:47:22.018;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-06-27 20:58:03.767;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.21 startreason software reset
+
+2022-06-28 13:34:55.798;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.27 startreason software reset
+
+2022-06-29 10:49:00.003;Critical 537, Miniserver - Administrator password reset, all, Miniserver (Uuid 17d5c1fb-009a-5c4c-ffff52b014603fcb)
+
+2022-06-29 10:57:42.092;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.28 startreason software reset
+
+2022-07-08 04:44:51.849;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.28 startreason software reset
+
+2022-07-08 07:59:13.780;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.28 startreason software reset
+
+2022-07-18 10:01:35.551;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-07-18 20:20:17.759;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.28 startreason software reset
+
+2022-07-19 10:36:24.982;PRG start Air Device (Touch Pure Air - 50:4F:94:FF:FE:88:8E:FA) version 13.1.7.12 (start reason: software reset)
+
+2022-07-29 23:17:39.045;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 12.4.6.28 startreason software reset
+
+2022-08-03 09:01:51.916;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-03 11:40:33.803;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-03 17:38:57.330;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-08-05 11:13:24.342;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-07 05:50:26.276;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-07 16:07:28.925;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-16 05:55:38.807;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-16 08:17:29.958;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-17 06:44:20.305;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:21.329;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:22.357;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:23.381;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:24.409;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:25.434;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:26.454;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:27.478;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:28.507;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:29.638;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:30.666;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:33.750;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:34.782;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:43.102;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:44.894;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:47.582;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:48.682;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:51.198;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:44:54.946;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:00.759;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:05.695;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:06.719;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:15.648;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:18.083;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:19.111;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:20.895;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:31.076;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-17 06:45:49.312;PRG start Air Device (NFC Code Touch Air Gen. 1 - 50:4F:94:FF:FE:8D:CA:8A) version 12.1.6.24 (start reason: power on reset)
+
+2022-08-19 00:25:06.472;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-20 03:54:08.136;PRG start Air Base Extension (Air Base Extension) serial 0cd905ec version 13.1.7.22 startreason software reset
+
+2022-08-25 10:53:57.098;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
+
+2022-08-26 10:59:51.162;PRG start Air Device (Touch Pure Air - 50:4F:94:FF:FE:88:8E:FA) version 13.1.8.8 (start reason: software reset)
+
+2022-08-26 15:49:57.026;PRG start Tree Device (NFC Code Touch Tree Gen. 1) serial B0149536 version 12.4.1.21 (start reason: software reset)
+
+2022-09-06 08:40:14.192;PRG start Tree Device (Touch Tree) serial B0237304 version 12.4.3.10 (start reason: power on reset)
