@@ -17,3 +17,18 @@ User Interface
 Executable
 Language Selector
 Error and runtime optmisation
+
+
+
+Miniserver DefLog Pharser
+
+As DefLogs tend to be very long and hard to read, we search for the lines with relevant information and create a smaller file
+
+To add:
+Drag and drop or browse GUI
+
+Information in the first line about how many Errors were found
+
+Date selection, so it only prints information within a certain range
+
+Document reference to solutions *Maybe*
