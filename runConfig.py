@@ -48,7 +48,7 @@ def createDict(pathList):
         versionsList.append(version)
         version_file_dict.update({f"{version}": f"{files}"})
 
-    return [versionsList, version_file_dict]
+    return  [versionsList,version_file_dict]
 
 #createDict()
 versionsList = [key for key in version_file_dict.keys()]
