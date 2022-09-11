@@ -15,7 +15,7 @@ test_version = [1,2,3,4,5]
 loxone_folder = ""
 version_path = {}
 
-#creating Functions
+#All the functions here:
 
 def browse_folder():
     loxone_folder = filedialog.askdirectory()
@@ -28,7 +28,6 @@ def get_path_version_dict(loxone_folder):
     version_path_list = createDict(scanPath(loxone_folder))
     versions = list(version_path_list[0])
     refresh_options(versions)
-    versionSelector.configure()
     version_path = version_path_list[1]
 
     return print("Executed Succesfully, Select your version")
@@ -45,22 +44,18 @@ def refresh_options(newlist):
 
 def run_version():
     os.popen(version_path[selectedVersion.get()])
-    return print(f"Launching version {selectedVersion} of Loxone Config.")
+    return print(f"Launching version {selectedVersion.get()} of Loxone Config.")
 
 
 
 
 
-
-
-
-
-#root - is just the name of the window given, as it's the root of the GUI
+#Initialise our Screen(root)
 
 root = tk.Tk()
 
 root.title("Loxone Version Launcher")
-root.geometry("500x300")
+root.geometry("600x400")
 
 #Creating objects and placing them - usually using pack or grit attributes
 
