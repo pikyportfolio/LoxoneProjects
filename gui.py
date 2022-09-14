@@ -1,10 +1,9 @@
 #Create a simple and clean GUI with TkInter
-
-from cgitb import text
-from multiprocessing.sharedctypes import Value
 import tkinter as tk
 from tkinter import *                   # import more than we need, import the important files later
-from tkinter import filedialog      
+from tkinter import filedialog
+from tkinter.font import BOLD
+from turtle import color      
 from runConfig import *
 
 #Globals
@@ -56,6 +55,7 @@ root = tk.Tk()
 
 root.title("Loxone Version Launcher")
 root.geometry("600x400")
+root.config(bg="gray17")
 
 #Creating objects and placing them - usually using pack or grit attributes
 
@@ -67,17 +67,20 @@ browseFrame = tk.Frame(root)
 
 #For object in the frame inherit from frame not root
 
-label = tk.Label(browseFrame, text= "Select your Loxone folder to scan for Config versions:",font =('Arial', 12))   
-browseButton = tk.Button(browseFrame,text= "Browse", font= ("Arial, 14"),command= browse_folder)
+label = tk.Label(browseFrame, text= "          Select your Loxone folder to scan for Config versions:             ",
+                font =('Arial', 14,BOLD),fg= "white",bg="chartreuse4",bd=0)   
+
+browseButton = tk.Button(browseFrame,text= "Browse", font= ("Arial, 14"),bg="seashell2",
+                        activebackground="chartreuse4", activeforeground="white",command= browse_folder)
 pathLabel = tk.Label(browseFrame,text = x,font = ('Arial,',14))
 
 
-label.grid(row=0, column = 0)
-pathLabel.grid(row = 1, column = 0, sticky = "we")           #sticky from west to east left to right 
+label.grid(row=0, column = 0,sticky="n",columnspan=2)
+pathLabel.grid(row = 1, column = 0, sticky = "we")            
 browseButton.grid(row =1 , column= 1, sticky = "we")
 
 #pack the frame to next item  to display everything made inside of it
-browseFrame.pack(padx= 10,pady =50)
+browseFrame.pack(padx= 2,pady =50)
 
 #Use the version list created by the get_versions func from runConfig
 
@@ -85,13 +88,13 @@ selectedVersion = tk.StringVar(root)
 selectedVersion.set("Select a version")
 
 versionSelector =tk.OptionMenu(root,selectedVersion,*versions)
-versionSelector.config(width=60, height=1, font =("Arial",12),)
+versionSelector.config(width=60, height=1, font =("Arial",12),fg="white",bg="chartreuse4")
 versionSelector.pack(padx =20, pady =1 )
 
 
-launchButton = tk.Button(root, text = "Launch",font =("Arial,16"),command = run_version)
+launchButton = tk.Button(root, text = "Launch",font =("Arial,16,bold"),bg="seashell2",activebackground="chartreuse4",
+                                                    activeforeground="white",command = run_version)
 launchButton.pack(pady= 30)
-
 
 
 
