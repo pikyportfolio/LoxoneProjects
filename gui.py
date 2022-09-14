@@ -47,8 +47,6 @@ def run_version():
 
 
 
-
-
 #Initialise our Screen(root)
 
 root = tk.Tk()
