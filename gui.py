@@ -3,13 +3,14 @@ import tkinter as tk
 from tkinter import *                   # import more than we need, import the important files later
 from tkinter import filedialog
 from tkinter.font import BOLD
-from turtle import color      
+from tkinter.messagebox import showinfo  
 from runConfig import *
+
+
 
 #Globals
 x = "Example Path: C:\Program Files (x86)\Loxone"
 versions = ["No versions found"]
-test_version = [1,2,3,4,5]
 
 loxone_folder = ""
 version_path = {}
@@ -26,6 +27,7 @@ def get_path_version_dict(loxone_folder):
     global version_path
     version_path_list = createDict(scanPath(loxone_folder))
     versions = list(version_path_list[0])
+    versions.sort(reverse=True)
     refresh_options(versions)
     version_path = version_path_list[1]
 
@@ -42,13 +44,21 @@ def refresh_options(newlist):
         versionSelector['menu'].add_command(label=choice, command=tk._setit(selectedVersion, choice))
 
 def run_version():
-    os.popen(version_path[selectedVersion.get()])
-    return print(f"Launching version {selectedVersion.get()} of Loxone Config.")
+    try:
+        os.popen(version_path[selectedVersion.get()])
+        return print(f"Launching version {selectedVersion.get()} of Loxone Config.")
+    except Exception:
+        showinfo("Error:","Version not selected!")
 
+
+
+#ignore docker error
+if os.environ.get('DISPLAY','') == '':
+    print('no display found. Using :0.0')
+    os.environ.__setitem__('DISPLAY', ':0.0')
 
 
 #Initialise our Screen(root)
-
 root = tk.Tk()
 
 root.title("Loxone Version Launcher")
