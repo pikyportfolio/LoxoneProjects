@@ -1,0 +1,1 @@
+loxone_folder="C:/Program Files (x86)/Loxone"
