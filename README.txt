@@ -10,13 +10,11 @@ Current implementation:
 3.Select your desired version
 4.Enjoy
 
+Added:
 
-
-Features to be added:
-User Interface
-Executable
-Language Selector
-Error and runtime optmisation
+-sorting
+-caching previously browsed location
+-error handling
 
 
 
